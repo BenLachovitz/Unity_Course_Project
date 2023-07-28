@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 66dbcc5e5f56cf04fbe01242f03c2cf7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Black Blood Ornament
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a41b0bd56dce82e4795ed27cdec707ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
